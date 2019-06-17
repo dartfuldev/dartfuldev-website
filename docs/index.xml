@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🎯</title>
+    <link>https://dartful.dev/</link>
+    <description>Recent content on 🎯</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>dartful.dev © 2019</copyright>
+    <lastBuildDate>Sun, 16 Jun 2019 17:40:03 -0400</lastBuildDate>
+    
+	<atom:link href="https://dartful.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>https://dartful.dev/links/</link>
+      <pubDate>Sun, 16 Jun 2019 17:40:03 -0400</pubDate>
+      
+      <guid>https://dartful.dev/links/</guid>
+      <description>This is where I share useful links on Dart. Though there is an Awesome Dart, I would put some that helped me in here.
+ Dart has a really good documentation. I mostly learned from there.
+ Creative Brackets has some good videos on Dart, Aqueduct, AngularDart and Flutter.
+ Dart and Flutter: The Complete Developer&amp;rsquo;s Guide by Stephen Grider, though a Flutter focused course, explains Dart quite nicely.
+  I promise this link list will grow, for now I am focusing on places you can learn from.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dartful.dev/about/</link>
+      <pubDate>Sun, 16 Jun 2019 17:39:57 -0400</pubDate>
+      
+      <guid>https://dartful.dev/about/</guid>
+      <description>I stumbled upon Dart last year, no, not through Flutter, but though AngularDart. While I did not end up selecting AngularDart for the project, I fell in love with the language, and decided to learn it and use it; I never looked back.
+I do not use Dart in my day to day job, I wish I did, but I don&amp;rsquo;t. But that does not stop me from using it. Flutter may have boosted Dart&amp;rsquo;s popularity recently but it by no means is limited to it, it can be more.</description>
+    </item>
+    
+  </channel>
+</rss>

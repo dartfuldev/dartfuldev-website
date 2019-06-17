@@ -4,6 +4,8 @@ title = "Musings of DartfulDev"
 theme = "terminal"
 paginate = 8
 
+publishDir = "docs"
+
 [params]
   contentTypeName = "posts"
   themeColor = "blue"
