@@ -1,3 +1,36 @@
-baseURL = "http://example.org/"
+baseURL = "https://dartful.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Musings of DartfulDev"
+theme = "terminal"
+paginate = 8
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "blue"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    title = "🎯"
+    subtitle = "Musings of a dev who hearts Dart"
+    keywords = "dart, programming"
+    copyright = "dartful.dev © 2019"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "dartful🎯dev"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "links"
+        name = "Links"
+        url = "/links"
